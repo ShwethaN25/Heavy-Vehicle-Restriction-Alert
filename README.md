@@ -23,11 +23,11 @@ The project is ideal for industries and urban areas where restricted access for 
 - **Languages**: Python, C++ (optional for integration).  
 - **Dependencies**: NVIDIA De epStream SDK, CUDA, cuDNN, and other required libraries.
 
-##Tech stack
-- **[DeepStream]**: Streaming Analytics toolkit for video, image, audio processing/understanding.
-- **[TensorRT]**: TensorRT is a machine learning framework that is used to run machine learning inference on Nvidia hardware.
-- **[YOLOV5]**: YOLO is a advanced computer vision algorithm that is used in object detection.
-- **[Jetson]**: It is a SOM device manufactured by Nvidia for running tensor intensive application.
+## Tech stack
+- **DeepStream**: Streaming Analytics toolkit for video, image, audio processing/understanding.
+- **TensorRT**: TensorRT is a machine learning framework that is used to run machine learning inference on Nvidia hardware.
+- **YOLOV5**: YOLO is a advanced computer vision algorithm that is used in object detection.
+- **Jetson**: It is a SOM device manufactured by Nvidia for running tensor intensive application.
 
 ## Setup and Usage  
 ### Prerequisites  
