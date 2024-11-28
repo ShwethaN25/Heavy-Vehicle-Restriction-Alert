@@ -33,9 +33,10 @@ The project is ideal for industries and urban areas where restricted access for 
    ```bash  
    git clone https://github.com/your-repo/heavy-vehicle-alert-system.git
    
-### Build
-    make
+2. Build
+   make
     
-### Run ./FirstApp file:///path-to-your-.mp4
+3. Run 
+   ./FirstApp file:///path-to-your-.mp4
 
 
