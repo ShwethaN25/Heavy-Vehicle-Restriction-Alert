@@ -35,10 +35,8 @@ The project is ideal for industries and urban areas where restricted access for 
    
 2. Build
    ```bash 
-   make
-    
+   make 
 4. Run
    ```bash 
    ./FirstApp file:///path-to-your-.mp4
-
 
