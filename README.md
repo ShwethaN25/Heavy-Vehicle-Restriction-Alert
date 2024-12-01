@@ -37,7 +37,8 @@ The project is ideal for industries and urban areas where restricted access for 
 ### Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/ShwethaN25/Heavy-Vehicle-Restriction-Alert   
+   git clone https://github.com/ShwethaN25/Heavy-Vehicle-Restriction-Alert
+   cd Heavy-Vehicle-Restriction-Alert
 2. Build
    ```bash 
    make 
