@@ -21,7 +21,7 @@ The project is ideal for industries and urban areas where restricted access for 
 - **Frameworks**: YOLO for vehicle detection and NVIDIA DeepStream for optimized real-time inference.  
 - **Platform**: Built to run on NVIDIA Jetson devices or systems with CUDA-enabled GPUs.  
 - **Languages**: Python, C++ (optional for integration).  
-- **Dependencies**: NVIDIA De epStream SDK, CUDA, cuDNN, and other required libraries.
+- **Dependencies**: NVIDIA DeepStream SDK, CUDA, cuDNN, and other required libraries.
 
 ## Tech stack
 - **DeepStream**: Streaming Analytics toolkit for video, image, audio processing/understanding.
